@@ -1,4 +1,4 @@
-const accountId=14323  //unchangeable 
+const accountI=14323  //unchangeable 
 let accountm="anki56" 
 var sample="hellohibye"
 accountCity="Mumbai"
@@ -6,4 +6,4 @@ accountCity="Mumbai"
 accountm="annn"
 sample="kohkkk"
 accountCity="Delhi"
-console.table([accountId,accountm,sample,accountCity,accountState])
+console.table([accountI,accountm,sample,accountCity,accountState])
